@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/31089/plugins/sfDoctrineNestedSetEasyManagerPlugin
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/LICENSE
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/package.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/README
+END

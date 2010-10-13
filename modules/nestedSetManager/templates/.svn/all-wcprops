@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/modules/nestedSetManager/templates
+END
+_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/modules/nestedSetManager/templates/_manager.php
+END
+edit_fieldSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/modules/nestedSetManager/templates/edit_fieldSuccess.php
+END
+_root.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/modules/nestedSetManager/templates/_root.php
+END
+_row.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/31113/plugins/sfDoctrineNestedSetEasyManagerPlugin/modules/nestedSetManager/templates/_row.php
+END
