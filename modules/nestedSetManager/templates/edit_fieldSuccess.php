@@ -11,7 +11,7 @@
   jQuery(document).ready(function($) {
     $('.save_tree_field_value').click(function() {
       $.ajax({
-        url: '<?php echo public_path('/tree_do_edit_field_item') ?>',
+        url: '<?php echo url_for('@tree_do_edit_item') ?>',
         type: 'POST',
         dataType: 'html',
         data: {
