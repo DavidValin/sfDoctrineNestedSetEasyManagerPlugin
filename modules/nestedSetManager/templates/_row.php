@@ -2,7 +2,7 @@
   <?php if($current_record->getNode()->hasNextSibling()): ?>
     <span>
       <?php echo jq_link_to_remote(image_tag('/sfDoctrineNestedSetEasyManagerPlugin/images/move_down.png', array('alt' => 'move down this item', 'title' => 'move down this item' )), array(
-        'url' => '@tree_item_move_to?direction=down&model='.$model.'&field='.$field.'&id='.$current_record->getId(),
+        'url' => '@tree_move_item_to?direction=down&model='.$model.'&field='.$field.'&id='.$current_record->getId(),
         'update' => 'tree_container')); ?>
     </span>
   <?php endif ?>
@@ -10,7 +10,7 @@
   <?php if($current_record->getNode()->hasPrevSibling()): ?>
     <span>
       <?php echo jq_link_to_remote(image_tag('/sfDoctrineNestedSetEasyManagerPlugin/images/move_up.png'), array(
-        'url' => '@tree_item_move_to?direction=up&model='.$model.'&field='.$field.'&id='.$current_record->getId(),
+        'url' => '@tree_move_item_to?direction=up&model='.$model.'&field='.$field.'&id='.$current_record->getId(),
         'update' => 'tree_container')); ?>
     </span>
   <?php endif ?>
